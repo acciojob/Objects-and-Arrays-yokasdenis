@@ -7,8 +7,6 @@ const person = {
 
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
 
-let players =window.players;
-window.person = person;
-window.team = team;
-let team1=players ;
+let team =players;
+let team1=team;
 let cap1=person;
